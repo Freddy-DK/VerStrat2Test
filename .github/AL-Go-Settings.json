@@ -4,6 +4,7 @@
   "templateUrl": "https://github.com/Freddy-DK/AL-Go@verstrat2",
   "templateSha": "3017d1d62fe1ec5e38dd3db027d0eff6c0e030f2",
   "gitHubRunner": "ubuntu-latest",
+  "useCompilerFolder": true,
   "doNotPublishApps": true,
   "runs-on": "ubuntu-latest",
   "versioningStrategy": 2
